@@ -1,0 +1,2 @@
+module IpsumsHelper
+end
